@@ -7,10 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="client" />
-        <module name="greetinterface" />
-        <module name="MyDubbo" />
-        <module name="pkg-scanner" />
         <module name="server" />
+        <module name="pkg-scanner" />
+        <module name="greetinterface" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

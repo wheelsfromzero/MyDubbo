@@ -581,6 +581,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="setting&#9;FILE&#9;file:///Users/hantingting/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/182.4892.20/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3/conf/settings.xml" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
